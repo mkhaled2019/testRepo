@@ -6,5 +6,11 @@ public class Test {
 		System.out.println("Hi>>>>>>>");
 
 	}
+	
+	
+	public static String get(String s) {
+		return "Hi";
+
+	}
 
 }
